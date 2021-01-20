@@ -543,7 +543,7 @@ The data you've been working with in this chapter has been cleaned up so that yo
     unique in your current data but the relationship might not be true in
     general.
 
-    For example, the altitude and longitude uniquely identify each airport,
+    For example, the latitude and longitude uniquely identify each airport,
     but they are not good identifiers!
 
     ```{r}
